@@ -1,2 +1,3 @@
 # vpn-landing-page
-#dff
+A responsive landing page built with HTML, CSS Bootstrap.
+https://dip-landingpage.netlify.app/
